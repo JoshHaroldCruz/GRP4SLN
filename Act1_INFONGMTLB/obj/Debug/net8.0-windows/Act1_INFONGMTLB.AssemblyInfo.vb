@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Act1_INFONGMTLB"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7d0444a38d2c80d0d3683138b99cda1c193097f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Act1_INFONGMTLB"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Act1_INFONGMTLB"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

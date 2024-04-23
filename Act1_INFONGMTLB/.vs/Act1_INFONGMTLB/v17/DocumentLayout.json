@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|c:\\users\\luna\\documents\\github\\grp4sln\\act1_infongmtlb\\businessworkflow\\bwlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|solutionrelative:businessworkflow\\bwlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|c:\\users\\luna\\documents\\github\\grp4sln\\act1_infongmtlb\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|solutionrelative:main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|c:\\users\\luna\\documents\\github\\grp4sln\\act1_infongmtlb\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|solutionrelative:main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|c:\\users\\luna\\documents\\github\\grp4sln\\act1_infongmtlb\\dataaccess\\applicationdbcontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|solutionrelative:dataaccess\\applicationdbcontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|c:\\users\\luna\\documents\\github\\grp4sln\\act1_infongmtlb\\dataaccess\\product.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF8C319D-1076-4285-A3A7-0C9C05CFB95A}|Act1_INFONGMTLB.vbproj|solutionrelative:dataaccess\\product.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BWLogin.vb",
-              "DocumentMoniker": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\BusinessWorkflow\\BWLogin.vb",
-              "RelativeDocumentMoniker": "BusinessWorkflow\\BWLogin.vb",
-              "ToolTip": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\BusinessWorkflow\\BWLogin.vb",
-              "RelativeToolTip": "BusinessWorkflow\\BWLogin.vb",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAMAAAAAAAAA",
+              "Title": "Main.vb",
+              "DocumentMoniker": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\Main.vb",
+              "RelativeDocumentMoniker": "Main.vb",
+              "ToolTip": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\Main.vb",
+              "RelativeToolTip": "Main.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-21T13:36:07.541Z",
+              "WhenOpened": "2024-04-23T18:28:18.549Z",
               "EditorCaption": ""
             },
             {
@@ -42,8 +50,34 @@
               "ToolTip": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\Main.vb [Design]",
               "RelativeToolTip": "Main.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-21T13:33:17.166Z",
+              "WhenOpened": "2024-04-23T18:28:09.33Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.vb",
+              "DocumentMoniker": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\DataAccess\\ApplicationDbContext.vb",
+              "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.vb",
+              "ToolTip": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\DataAccess\\ApplicationDbContext.vb",
+              "RelativeToolTip": "DataAccess\\ApplicationDbContext.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T18:26:45.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.vb",
+              "DocumentMoniker": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\DataAccess\\Product.vb",
+              "RelativeDocumentMoniker": "DataAccess\\Product.vb",
+              "ToolTip": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\DataAccess\\Product.vb",
+              "RelativeToolTip": "DataAccess\\Product.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T18:26:31.452Z",
+              "EditorCaption": ""
             }
           ]
         }

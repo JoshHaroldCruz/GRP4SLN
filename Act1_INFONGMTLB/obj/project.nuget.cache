@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "66W8KZ+KtxLYH5f4XjTcqtBYsXfFsUji5cRNcWovQeGT/XPvWILz22EmYoi0+RIl1dMgPiI3wgI1h51lJZl1Cg==",
+  "dgSpecHash": "rcwylzhRTle76qDxgwZhDEuBvwwLQUSH3qJVlfDaLZbzkAI/f3D02zl8PHpjZl+pQrNNvwP7pi6RiA6ioFFb4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luna\\Documents\\GitHub\\GRP4SLN\\Act1_INFONGMTLB\\Act1_INFONGMTLB.vbproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\Luna\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.4\\microsoft.entityframeworkcore.design.8.0.4.nupkg.sha512",
     "C:\\Users\\Luna\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.4\\microsoft.entityframeworkcore.relational.8.0.4.nupkg.sha512",
     "C:\\Users\\Luna\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.4\\microsoft.entityframeworkcore.sqlserver.8.0.4.nupkg.sha512",
+    "C:\\Users\\Luna\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.4\\microsoft.entityframeworkcore.tools.8.0.4.nupkg.sha512",
     "C:\\Users\\Luna\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Luna\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\Luna\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
